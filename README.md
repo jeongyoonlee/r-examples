@@ -10,4 +10,3 @@ Example codes using R for data analysis
 Usage:
 
     $ ./wordcloud_obama_inaugural/wordcloud_obama_inaugural.R wordcloud.png
-
