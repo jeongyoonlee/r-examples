@@ -12,10 +12,10 @@ Usage:
     $ ./wordcloud_obama_inaugural.R wordcloud.png
 
 ## bubble_chart_by_category
-* draw a bubble chart for data with 4 dimension (score, rate, category, count)
-** use x- and y-axis for score and rate
-** use colors to code categories
-** use bubble sizes to represent counts
+* draw a bubble chart for data with 4 dimension (score, rate, category, count) using ggplot.
+* use x- and y-axis for score and rate
+* use colors to code categories
+* use bubble sizes to represent counts
 
 Usage:
 
