@@ -2,7 +2,7 @@
 Example codes using R for data analysis
 
 # Visualization
-## wordcloud_obama_inaugural
+## [wordcloud_obama_inaugural](/visualization/wordcloud_obama_inaugural/wordcloud_obama_inaugural.R)
 * read and extract texts from the White House's Obama 2009 inaugural address page.
 * build a text-document matrix using TF-IDF.
 * draw the wordcloud by the TF-IDF scores and save it as a PNG file.
@@ -15,7 +15,7 @@ Output:
 
 ![Wordcloud](/visualization/wordcloud_obama_inaugural/wordcloud_obama_inaugural.png)
 
-## bubble_chart_by_category
+## [bubble_chart_by_category](/visualization/bubble_chart_by_category/bubble_chart_by_category.R)
 * draw a bubble chart for data with 4 dimension (score, rate, category, count) using ggplot.
 * use x- and y-axis for score and rate
 * use colors to code categories
