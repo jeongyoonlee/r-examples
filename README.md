@@ -13,7 +13,7 @@ Usage:
 
 Output:
 
-![Wordcloud](/visualization/wordcloud_obama_inaugural/wordcloud_obama_inagural.png)
+![Wordcloud](/visualization/wordcloud_obama_inaugural/wordcloud_obama_inaugural.png)
 
 ## bubble_chart_by_category
 * draw a bubble chart for data with 4 dimension (score, rate, category, count) using ggplot.
